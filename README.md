@@ -7,12 +7,12 @@
 <br/>
 ## 3.역할분담  
 -추후작성  
-<br/>
-
-### ※crawling_filtering repository 안에 crawling이라는 파일과 colla_filtering 파일이 구분되어 있습니다.  
+<br/>  
+## 4.주의사항  
+##### ※crawling_filtering repository 안에 crawling이라는 파일과 colla_filtering 파일이 구분되어 있습니다.  
 -crawling 파일: 오픈 API를 다운받아서 필요한 데이터만 골라내는 작업공간  
 -colla_filtering 파일: 협업필터링을 구현해가는 작업공간
 
-### ※커밋 메세지 룰  
+##### ※커밋 메세지 룰  
 -동사+목적어  
 ex)create ___ function, complete ___ function, upload ___ img
